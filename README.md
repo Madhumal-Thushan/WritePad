@@ -26,7 +26,7 @@ is 5.15.0 because of that I am getting some errors when I try to convert this to
 some errors. 
 
 
-How to use 
+## How to use 
 What users can do is already discussed in Scope section I think when you run this 
 application you can do the same as discussed in that section 
 Basically, you can use this as a text editing tool with so many other functions. 
